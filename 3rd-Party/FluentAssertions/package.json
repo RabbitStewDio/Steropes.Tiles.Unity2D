@@ -1,0 +1,11 @@
+{
+    "name": "com.rabbitstewdio.unity.fluentassertions",
+    "displayName": "FluentAssertions",
+    "version": "4.19.4",
+    "unity": "2018.4",
+    "description": "With Fluent Assertions, the assertions look beautiful, natural and, most importantly, extremely readable.",
+    "keywords": ["Library"],
+    "category": "Libraries",
+    "dependencies": {
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Steropes.Tiles.Unity2D",
+    "references": [
+        "Steropes.Tiles",
+        "NaughtyAttributes",
+        "SortingLayer.Player",
+        "MonoGame.PNG",
+        "Unity.2D.PixelPerfect"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

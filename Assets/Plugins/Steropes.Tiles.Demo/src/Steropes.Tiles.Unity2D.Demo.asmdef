@@ -1,0 +1,17 @@
+{
+    "name": "Steropes.Tiles.Unity2D.Demo",
+    "references": [
+        "Steropes.Tiles.Unity2D",
+        "Steropes.Tiles.Samples.Shared",
+        "Steropes.Tiles",
+        "SortingLayer.Player"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

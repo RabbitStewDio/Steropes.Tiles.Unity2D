@@ -1,0 +1,11 @@
+{
+    "name": "com.rabbitstewdio.unity.sortinglayer",
+    "displayName": "SortingLayer Annotations and Editor Support",
+    "version": "1.0.0",
+    "unity": "2018.4",
+    "description": "Makes it possible to select sorting layers as properties in the inspector.",
+    "keywords": ["Library"],
+    "category": "Libraries",
+    "dependencies": {
+    }
+}

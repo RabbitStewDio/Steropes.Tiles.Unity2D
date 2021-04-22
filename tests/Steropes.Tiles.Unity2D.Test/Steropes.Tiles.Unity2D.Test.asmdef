@@ -1,0 +1,21 @@
+{
+    "name": "Steropes.Tiles.Unity2D.Test",
+    "references": [
+        "Steropes.Tiles.Unity2D",
+        "Steropes.Tiles",
+        "FluentAssertions",
+        "MonoGame.PNG"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

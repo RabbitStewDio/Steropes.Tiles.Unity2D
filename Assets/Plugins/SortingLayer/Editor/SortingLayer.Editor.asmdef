@@ -1,0 +1,16 @@
+{
+    "name": "SortingLayer.Editor",
+    "references": [
+        "SortingLayer.Player"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

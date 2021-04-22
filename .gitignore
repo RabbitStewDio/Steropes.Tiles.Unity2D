@@ -377,3 +377,7 @@ build-artefacts/
 
 /NuGet/
 
+bin/
+bin.meta
+obj/
+obj.meta
